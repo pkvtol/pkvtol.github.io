@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://pkv-games.pandapower.org/sitemap.xml
